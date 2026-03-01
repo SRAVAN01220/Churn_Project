@@ -14,50 +14,11 @@ The project is developed using:
 
 ---
 
-##  Business Objective
-
-Customer churn prediction helps companies:
-
-- Improve customer retention
-- Reduce marketing cost
-- Increase revenue stability
-
-This project demonstrates an end-to-end machine learning pipeline.
-
----
-
-##  Dataset
-
-The project uses:
-
-- :contentReference[oaicite:3]{index=3}
-
-Dataset features include:
-
-- Customer tenure  
-- Monthly charges  
-- Total charges  
-- Service subscription details  
-
----
-
-##  Machine Learning Model
-
-The following algorithm is used:
-
-- :contentReference[oaicite:4]{index=4}
-
-Model evaluation metrics include:
-
-- Accuracy  
-- Precision  
-- Recall  
-- F1-score  
-- ROC-AUC
-
----
-
 ##  Deployment
+<p align="center">
+<b>📊 Customer Churn Prediction AI Project</b><br>
+Machine Learning based churn risk prediction system deployed using Streamlit.
+</p>
 
 <p align="center">
 <a href="https://churnproject-mwxng9rkchd8w9hwfwjhhi.streamlit.app/" target="_blank">
