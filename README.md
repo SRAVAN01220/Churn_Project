@@ -1,6 +1,6 @@
-# 📘 Customer Churn Prediction System
+#  Customer Churn Prediction System
 
-## 🌟 Project Overview
+##  Project Overview
 
 This project is a machine learning based customer churn prediction system.
 
@@ -16,7 +16,7 @@ The project is developed using:
 
 ##  Deployment
 <p align="center">
-<b>📊 Customer Churn Prediction AI Project</b><br>
+<b> Customer Churn Prediction AI Project</b><br>
 Machine Learning based churn risk prediction system deployed using Streamlit.
 </p>
 
