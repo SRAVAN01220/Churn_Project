@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Project Access</title>
+
+<style>
+
+body{
+    background: #0f2027;
+    font-family: Arial;
+    text-align:center;
+    color:white;
+    padding:80px;
+}
+
+.box{
+    background: rgba(255,255,255,0.1);
+    padding:40px;
+    border-radius:20px;
+    width:300px;
+    margin:auto;
+}
+
+input{
+    padding:12px;
+    width:200px;
+    border:none;
+    border-radius:8px;
+    margin:15px;
+}
+
+button{
+    background:#00ffcc;
+    border:none;
+    padding:12px 25px;
+    border-radius:8px;
+    font-weight:bold;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="box">
+
+<h2>🔐 Project Access Code</h2>
+
+<p>https://churnproject-mwxng9rkchd8w9hwfwjhhi.streamlit.app/</p>
+
+<input placeholder="Enter Access Code">
+
+<br>
+
+<button>
+Unlock Link
+</button>
+
+</div>
+
+</body>
+</html>
